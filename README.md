@@ -1,5 +1,5 @@
 <h1 align=left> HopeDrop </h1>
-Welcome 👋
+Welcome you all 👋
 
 <p>
 The HopeDrop is an initiative aimed at connecting individuals in need of blood with willing blood donors. The project utilizes npm (Node Package Manager) and version control using Git to manage the codebase and facilitate collaboration.
